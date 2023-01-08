@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://github.com/Pomroka/Pomroka.github.io/qr-code-component](https://github.com/Pomroka/Pomroka.github.io/qr-code-component)
-- Live Site URL: [https://Pomroka.github.io/qr-code-component](https://Pomroka.github.io/qr-code-component/index.html)
+- Solution URL: [https://github.com/Pomroka/qr-code-component](https://github.com/Pomroka/qr-code-component)
+- Live Site URL: [https://Pomroka.github.io/qr-code-component](https://Pomroka.github.io/qr-code-component)
 
 ## My process
 
