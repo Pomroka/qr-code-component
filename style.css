@@ -101,7 +101,7 @@ body {
   flex-flow: column;
 }
 
-.container {
+main {
   display: flex;
   flex-flow: column wrap;
   background: var(--clr-primary-100);
@@ -114,23 +114,23 @@ body {
   gap: 1.75rem;
 }
 
-.container > img {
+main > img {
   border-radius: 1rem;
 }
 
-.container > h2 {
+main > h2 {
   font-weight: var(--fw-bold);
   font-size: var(--fs-700);
   padding-inline: 0.5rem;
 }
 
-.container > p {
+main > p {
   color: var(--clr-primary-600);
   padding-inline: 0.75rem;
   padding-bottom: 1rem;
 }
 
-.attribution {
+footer {
   background: var(--clr-primary-100);
   color: var(--clr-primary-900);
   text-align: center;
